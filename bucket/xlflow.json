@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/harumiWeb/xlflow/releases/download/v0.1.0/xlflow_windows_x86_64.zip",
+            "bin": [
+                "xlflow.exe"
+            ],
+            "hash": "fe1cdab6ee621ee0420ca4e90a9f6c614175bf5e9c688121c416ead8b28e6b4a"
+        }
+    },
+    "homepage": "https://github.com/harumiWeb/xlflow",
+    "license": "MIT",
+    "description": "Excel VBA development framework for CLI-first humans and AI agents."
+}
