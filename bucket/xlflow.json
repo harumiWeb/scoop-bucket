@@ -1,12 +1,12 @@
 {
-    "version": "0.19.0",
+    "version": "0.20.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/harumiWeb/xlflow/releases/download/v0.19.0/xlflow_windows_x86_64.zip",
+            "url": "https://github.com/harumiWeb/xlflow/releases/download/v0.20.0/xlflow_windows_x86_64.zip",
             "bin": [
                 "xlflow.exe"
             ],
-            "hash": "dd1bc49247bf8f4c0d044fbc42bdf8182ed88d3c673352032c5f2c426aa2c3be"
+            "hash": "75564a13313a257b567ed77c0147b734466fbd1b3e68feb2542d7b223299aaeb"
         }
     },
     "homepage": "https://github.com/harumiWeb/xlflow",
